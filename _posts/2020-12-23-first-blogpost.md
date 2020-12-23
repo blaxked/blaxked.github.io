@@ -11,4 +11,10 @@ Etc Etc
 
 ```
 #include <windows.h>
+
+int main(void){
+  DWORD h;
+  
+  return 0;
+}
 ```
